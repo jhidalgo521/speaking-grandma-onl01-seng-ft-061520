@@ -19,7 +19,7 @@ def speak_to_grandma(phrase)
       puts  'HUH?! SPEAK UP, SONNY!'
     elsif phrase ==
       puts
-    elsif phrase == 
+    elsif phrase == 'Hi!'
       puts 
     else
     end
