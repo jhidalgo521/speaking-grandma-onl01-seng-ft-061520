@@ -21,7 +21,7 @@ def speak_to_grandma(phrase)
       puts
     elsif phrase == 'Hi!'
       puts 'HUH?! SPEAK UP, SONNY!'
-    else
+    elsif phrase == 
     end
 end
 
